@@ -18,10 +18,9 @@
 - 문제 유형 및 접근법 설명
 - 정답 코드 생성
 
-## 역할
-- 팀장
+## 나(Lim Yeri)dml 역할
 - 훈련 데이터 수집 및 편집 (개선)
-- 파인튜닝 후 모델 배포
+- 모델 훈련
 
 ## 훈련 데이터
 - [**LeetCode 사용자 제출물**](https://huggingface.co/datasets/kreimben/leetcode_user_submissions): 다양한 알고리즘 문제의 파이썬 솔루션
